@@ -8,7 +8,7 @@
     <version>dev-0.02</version>
     <packaging>pom</packaging>
 
-    <name>MatrixCore-parent</name>
+    <name>spigot-parent</name>
     <description>Parent project for all Spigot and Matrix modules.</description>
     <url>https://hub.spigotmc.org/stash/projects/SPIGOT/repos/spigot</url>
 

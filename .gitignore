@@ -40,3 +40,20 @@ build/
 ###Minecraft Server###
 /crash-reports/
 /eula.txt
+/banned-ips.json
+/bukkit.yml
+/banned-players.json
+/commands.yml
+/matrix.yml
+/help.yml
+/ops.json
+/server.properties
+/spigot.yml
+/usercache.json
+/whitelist.json
+/logs/
+/plugins/
+/world_the_end/
+/world_nether/
+/world/
+/permissions.yml

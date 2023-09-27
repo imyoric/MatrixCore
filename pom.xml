@@ -5,7 +5,7 @@
 
     <groupId>org.spigotmc</groupId>
     <artifactId>spigot-parent</artifactId>
-    <version>dev-0.02</version>
+    <version>dev-0.03</version>
     <packaging>pom</packaging>
 
     <name>spigot-parent</name>

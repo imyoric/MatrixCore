@@ -1,0 +1,3 @@
+[submodule "Spigot-Server"]
+	path = Spigot-Server
+	url = https://github.com/imyoric/MatrixCore-Server

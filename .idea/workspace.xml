@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3116d1e-9c21-47bf-b5bc-006494e022fc" name="Changes" comment="N">
+    <list default="true" id="0cc65d1d-e011-4c92-894b-b5603a443a8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
@@ -29,7 +29,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2W1oWjMdnTmZ4eXLSnQnnExCVJc" />
+  <component name="ProjectId" id="2W1rvsbQJsAUzGXTeRmJP7wV28G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,52 +44,23 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "me.rerere.discordij.setting.DiscordIJConfigurableProject",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b3116d1e-9c21-47bf-b5bc-006494e022fc" name="Changes" comment="" />
-      <created>1695909480838</created>
+      <changelist id="0cc65d1d-e011-4c92-894b-b5603a443a8c" name="Changes" comment="" />
+      <created>1695911164779</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695909480838</updated>
-      <workItem from="1695909482329" duration="616000" />
+      <updated>1695911164779</updated>
+      <workItem from="1695911172857" duration="388000" />
     </task>
-    <task id="LOCAL-00001" summary="N">
-      <option name="closed" value="true" />
-      <created>1695909570790</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1695909570790</updated>
-    </task>
-    <task id="LOCAL-00002" summary="N">
-      <option name="closed" value="true" />
-      <created>1695910048137</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1695910048137</updated>
-    </task>
-    <task id="LOCAL-00003" summary="N">
-      <option name="closed" value="true" />
-      <created>1695910090856</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1695910090856</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="N" />
-    <option name="LAST_COMMIT_MESSAGE" value="N" />
   </component>
 </project>

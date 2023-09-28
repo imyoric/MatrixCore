@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cc65d1d-e011-4c92-894b-b5603a443a8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0cc65d1d-e011-4c92-894b-b5603a443a8c" name="Changes" comment="N">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixCore-API/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MatrixCore-API/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixCore-API/src/test/java/org/bukkit/ArtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MatrixCore-API/src/test/java/org/bukkit/ArtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixCore-API/src/test/java/org/bukkit/MaterialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MatrixCore-API/src/test/java/org/bukkit/MaterialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixCore-API/src/test/java/org/bukkit/support/AbstractTestingBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/MatrixCore-API/src/test/java/org/bukkit/support/AbstractTestingBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixCore-Server/src/main/java/ru/yoricya/minecraft/matrixcore/MatrixCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/MatrixCore-Server/src/main/java/ru/yoricya/minecraft/matrixcore/MatrixCore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +21,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MatrixCore-API" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MatrixCore-Server" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,20 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;me.rerere.discordij.setting.DiscordIJConfigurableProject&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.255",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.bukkit.craftbukkit.Main" />
@@ -80,7 +84,29 @@
       <updated>1695911164779</updated>
       <workItem from="1695911172857" duration="388000" />
       <workItem from="1695912745201" duration="629000" />
+      <workItem from="1695913384467" duration="891000" />
+      <workItem from="1695914337438" duration="266000" />
+      <workItem from="1695914764388" duration="783000" />
+      <workItem from="1695915561404" duration="1401000" />
+      <workItem from="1695917051724" duration="1339000" />
     </task>
+    <task id="LOCAL-00001" summary="N">
+      <option name="closed" value="true" />
+      <created>1695913439796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695913439796</updated>
+    </task>
+    <task id="LOCAL-00002" summary="N">
+      <option name="closed" value="true" />
+      <created>1695914153438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695914153438</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="N" />
+    <option name="LAST_COMMIT_MESSAGE" value="N" />
   </component>
 </project>

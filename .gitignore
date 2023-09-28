@@ -64,6 +64,5 @@ build/
 /world/
 /permissions.yml
 
-/Spigot-Server/
-/Spigot-API/
-/Spigot-Server/
+/MatrixCore-API/
+/MatrixCore-Server/

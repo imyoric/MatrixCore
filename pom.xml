@@ -13,8 +13,8 @@
     <url>https://hub.spigotmc.org/stash/projects/SPIGOT/repos/spigot</url>
 
     <modules>
-        <module>Spigot-Server</module>
-        <module>Spigot-API</module>
+        <module>MatrixCore-Server</module>
+        <module>MatrixCore-API</module>
     </modules>
 
     <properties>
